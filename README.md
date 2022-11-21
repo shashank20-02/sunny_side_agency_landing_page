@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/shashank20-02/sunny_side_agency_landing_page
+- Live Site URL: https://sunny-side-agency-landing-page-ten.vercel.app/
 
 ### Built with
 
@@ -45,5 +45,3 @@ Users should be able to:
 - Website - [Shashank Sharma]
 - Frontend Mentor - [@shashank20-02](https://www.frontendmentor.io/profile/shashank20-02)
 - Github - [shashank20-02]
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
